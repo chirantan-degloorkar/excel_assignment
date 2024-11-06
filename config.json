@@ -1,4 +1,4 @@
 {
-    "template_path": "input/Consolidation_Assignment.xlsx",
-    "sheet_name": "3a. Bid Sheet- 100% volume"
+    "template_path": {template_file_path},
+    "sheet_name": {sheet_name}
 }
